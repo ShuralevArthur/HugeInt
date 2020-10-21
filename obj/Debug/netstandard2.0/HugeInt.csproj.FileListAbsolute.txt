@@ -1,0 +1,9 @@
+C:\Users\Artur\source\repos\HugeInt\bin\Debug\netstandard2.0\HugeInt.deps.json
+C:\Users\Artur\source\repos\HugeInt\bin\Debug\netstandard2.0\HugeInt.dll
+C:\Users\Artur\source\repos\HugeInt\obj\Debug\netstandard2.0\HugeInt.csprojAssemblyReference.cache
+C:\Users\Artur\source\repos\HugeInt\obj\Debug\netstandard2.0\HugeInt.AssemblyInfoInputs.cache
+C:\Users\Artur\source\repos\HugeInt\obj\Debug\netstandard2.0\HugeInt.AssemblyInfo.cs
+C:\Users\Artur\source\repos\HugeInt\bin\Debug\netstandard2.0\HugeInt.pdb
+C:\Users\Artur\source\repos\HugeInt\obj\Debug\netstandard2.0\HugeInt.dll
+C:\Users\Artur\source\repos\HugeInt\obj\Debug\netstandard2.0\HugeInt.pdb
+C:\Users\Artur\source\repos\HugeInt\obj\Debug\netstandard2.0\HugeInt.csproj.CoreCompileInputs.cache
